@@ -1,0 +1,24 @@
+# Fallback dirs
+cstrike/
+valve/
+
+# Binary files
+*.apk
+*.ipa
+*.exe
+*.dll
+*.so*
+xash_sdl
+
+# User-config files
+config.cfg
+opengl.cfg
+video.cfg
+keyboard.cfg
+touch.cfg
+.xash_id
+maps.lst
+userconfig.d/
+
+# Backup files
+*.bak
