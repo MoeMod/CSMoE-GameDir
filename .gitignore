@@ -16,9 +16,13 @@ opengl.cfg
 video.cfg
 keyboard.cfg
 touch.cfg
+gamesettings.cfg
 .xash_id
 maps.lst
 userconfig.d/
+
+# Temp files
+tempdecal.wad
 
 # Backup files
 *.bak
