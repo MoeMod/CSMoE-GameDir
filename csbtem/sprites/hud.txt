@@ -115,6 +115,20 @@ zombiDTER			640 640hud20	211	141	37	45
 zombiECT			640 640hud20	172	188	37	45
 zombiETER			640 640hud20	211	188	37	45
 
+radar_item			640 640hud2	176	168	9	9
+
+d_ak47L				640 640hud16	94	64	48	16
+d_mp7a1D			640 640hud16	94	80	48	16
+d_deagleD			640 640hud16	36	48	57	16
+zombirecovery			640 640hud21	171	1	37	45
+
+zombitrap				640 640hud20	172	192	37	37
+radar_trap			640 640hud2	241	144	9	9
+zombiheal			640 640hud21	210	1	37	37
+zombiFTER			640 640hud20	211	94	37	45
+zombiFCT			640 640hud20	121	0	49	92
+zombismoke			640 640hud21	171	47	37	37
+
 // Scoreboard
 SBOriginalBG        640 Scoreboard          0   0   216 48
 SBTeamDeathBG       640 Scoreboard          0   47  216 48
