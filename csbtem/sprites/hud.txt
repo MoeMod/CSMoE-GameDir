@@ -120,26 +120,33 @@ radar_item			640 640hud2	176	168	9	9
 d_ak47L				640 640hud16	94	64	48	16
 d_mp7a1D			640 640hud16	94	80	48	16
 d_deagleD			640 640hud16	36	48	57	16
-zombirecovery			640 640hud21	171	1	37	45
+d_wa2000				640 640hud3	72	240	48	16
+d_m95				640 640hud4	172	0	48	16
+d_as50				640 640hud4	172	242	48	16
+d_thompson			640 640hud3	172	160	48	16
+d_kriss				640 640hud3	222	16	32	16
+d_m1887				640 640hud16	94	192	48	16
+d_tar21				640 640hud4	172	16	48	16
+d_scarL				640 640hud16	143	176	48	16
+d_scarH				640 640hud16	143	192	48	16
+d_xm8C				640 640hud16	143	224	48	16
+d_xm8S				640 640hud16	143	208	48	16
 
+zombirecovery			640 640hud21	171	1	37	45
 zombitrap				640 640hud20	172	192	37	37
 radar_trap			640 640hud2	241	144	9	9
 zombiheal			640 640hud21	210	1	37	37
 zombiFTER			640 640hud20	211	94	37	45
 zombiFCT			640 640hud20	121	0	49	92
 zombismoke			640 640hud21	171	47	37	37
-
 zombiFCT2			640 640hud20	1	105	62	37
 zombicrazy			640 640hud20	1	143	43	37
 zombiGTER			640 640hud20	172	94	37	45
 zombiGkey			640 640hud20	121	94	39	36
-
 zombiHCT			640 640hud20	133	141	37	45
 zombiHTER			640 640hud20	133	188	37	45
-
 zombiITER			640 640hud20	82	1	37	45
 zombiICT				640 640hud20	46	143	74	37
-
 zombideimos			640 640hud20	82	52	37	37
 
 // Scoreboard
