@@ -149,6 +149,8 @@ zombiITER			640 640hud20	82	1	37	45
 zombiICT				640 640hud20	46	143	74	37
 zombideimos			640 640hud20	82	52	37	37
 
+d_cannon				640 640hud6	172	160	48	16
+
 // Scoreboard
 SBOriginalBG        640 Scoreboard          0   0   216 48
 SBTeamDeathBG       640 Scoreboard          0   47  216 48
