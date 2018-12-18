@@ -9,6 +9,8 @@ valve/
 *.dll
 *.so*
 xash_sdl
+*.lib*
+*.a*
 
 # User-config files
 config.cfg
