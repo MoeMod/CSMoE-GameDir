@@ -155,7 +155,7 @@ d_k1a				640 640hud16	143	80	48	16
 d_infinity				640 640hud16	45	160	48	16
 d_infinityex1			640 640hud16	45	160	48	16
 d_infinityex2			640 640hud3	172	48	48	16
-
+d_gungnir		640 640hud44	172	48	48	16
 
 // Scoreboard
 SBOriginalBG        640 Scoreboard          0   0   216 48
