@@ -156,6 +156,7 @@ d_infinity				640 640hud16	45	160	48	16
 d_infinityex1			640 640hud16	45	160	48	16
 d_infinityex2			640 640hud3	172	48	48	16
 d_gungnir		640 640hud44	172	48	48	16
+d_svdex				640 640hud3	172	0	48	16
 
 // Scoreboard
 SBOriginalBG        640 Scoreboard          0   0   216 48
@@ -181,3 +182,37 @@ KM_KillText         640 Kill                97  97  158 45
 KM_Icon_Head        640 Kill                0   0   98  98
 KM_Icon_knife       640 Kill                97  0   98  98
 KM_Icon_Frag        640 Kill                0   97  98  98
+KM_Icon_adrenalineshot        640 z4                2   34   150  150
+
+// Morale
+ZB3_MoraleLevel     640 MoraleState         2   2  178  23
+ZB3_MoraleIcon      640 MoraleState         2   27  49  49
+ZB3_MoraleEffect    640 MoraleState         53  27  83  79
+
+// RageEffect
+ZB3_RageLevel     640 MoraleState         2   213  127  23
+ZB3_RageBg        640 MoraleState         2   108  244  103
+ZB3_RageEffect000   640 rage1        	  2  2  97  114
+ZB3_RageEffect001   640 rage1        	  101  2   97  114
+ZB3_RageEffect002   640 rage1        	  2  118  97  114
+ZB3_RageEffect003   640 rage1        	  101  118  97  114
+ZB3_RageEffect004   640 rage2        	  2  2  97  114
+ZB3_RageEffect005   640 rage2        	  101  2  97  114
+ZB3_RageEffect006   640 rage2        	  2  118  97  114
+ZB3_RageEffect007   640 rage2        	  101  118  97  114
+ZB3_RageEffect100   640 rage3        	  2  2  97  114
+ZB3_RageEffect101   640 rage3        	  101  2   97  114
+ZB3_RageEffect102   640 rage3        	  2  118  97  114
+ZB3_RageEffect103   640 rage3        	  101  118  97  114
+ZB3_RageEffect104   640 rage4        	  2  2  97  114
+ZB3_RageEffect105   640 rage4        	  101  2  97  114
+ZB3_RageEffect106   640 rage4        	  2  118  97  114
+ZB3_RageEffect107   640 rage4        	  101  118  97  114
+ZB3_RageEffect200   640 rage5        	  2  2  97  114
+ZB3_RageEffect201   640 rage5        	  101  2   97  114
+ZB3_RageEffect202   640 rage5        	  2  118  97  114
+ZB3_RageEffect203   640 rage5        	  101  118  97  114
+ZB3_RageEffect204   640 rage6        	  2  2  97  114
+ZB3_RageEffect205   640 rage6        	  101  2  97  114
+ZB3_RageEffect206   640 rage6        	  2  118  97  114
+ZB3_RageEffect207   640 rage6       	  101  118  97  114

@@ -1,0 +1,6 @@
+5
+weapon			640 640hud36	0	180	170	45
+weapon_s		640 640hud41	0	180	170	45
+ammo			640 640hud7	72	72	24	24
+ammo2			640 640hud7	192	124	24	24
+autoaim			640 scope_vip_grenade	0	0	256	256
