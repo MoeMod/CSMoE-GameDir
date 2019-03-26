@@ -3,7 +3,7 @@
 
 basedir		"valve"
 fallback_dir	"cstrike"
-title		"Counter-Strike BreakThrough Edition - Mobile"
+title		"Counter-Strike Mobile-oriented Edition"
 startmap		"c0a0"
 trainmap		"tr_1"
 version		1.6

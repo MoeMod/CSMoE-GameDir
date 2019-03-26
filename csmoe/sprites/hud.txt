@@ -148,6 +148,10 @@ zombiHTER			640 640hud20	133	188	37	45
 zombiITER			640 640hud20	82	1	37	45
 zombiICT				640 640hud20	46	143	74	37
 zombideimos			640 640hud20	82	52	37	37
+zombiJTER			640 640hud20	82	95	37	45
+zombiJCT				640 640hud20	1	219	74	37
+radar_deimos2zb			640 zbt_radar	1	19	9	9
+zombicrazy2			640 640hud20	53	181	37	37
 
 d_skullaxe			640 640hud4	172	96	48	16
 d_cannon				640 640hud6	172	160	48	16
