@@ -164,6 +164,7 @@ d_svdex				640 640hud3	172	0	48	16
 d_infinityss			640 640hud16	3	112	32	16
 d_infinitysb			640 640hud16	3	112	32	16
 d_infinitysr			640 640hud16	3	112	32	16
+d_dualsword		640 640hud42	172	0	48	16
 
 // Scoreboard
 SBOriginalBG        640 Scoreboard          0   0   216 48
