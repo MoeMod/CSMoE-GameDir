@@ -8,7 +8,10 @@ valve/
 *.exe
 *.dll
 *.so*
+*.dylib
 xash_sdl
+xash3d
+xashds
 *.lib*
 *.a*
 
@@ -25,6 +28,7 @@ userconfig.d/
 
 # Temp files
 tempdecal.wad
+.DS_Store
 
 # Backup files
 *.bak
