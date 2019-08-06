@@ -1,0 +1,4 @@
+3
+weapon			640 z4b/z4bhud07	0	180	170	45
+weapon_s		640 z4b/z4bhud07	0	180	170	45
+ammo			640 640hud7	144	124	24	24
