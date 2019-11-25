@@ -1,0 +1,8 @@
+14
+weapon			640 z4b/z4bhud13	0	90	170	45
+weapon_s		640 z4b/z4bhud13	0	135	170	45
+ammo			640 z4b/z4bhud13	0	225	24	24
+crosshair			640 crosshairs	24	0	24	24
+autoaim			640 crosshairs	0	72	24	24
+zoom			640 sniper_scope	0	0	256	256
+zoom_autoaim		640 sniper_scope	0	0	256	256
