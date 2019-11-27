@@ -170,6 +170,7 @@ d_dualsword		640 640hud42	172	0	48	16
 d_gatling				640 640hud4	 172	128	48	16
 d_dragonsword			640 640hud10	172	160	48	16
 d_m2			       	640 640hud12	172	144	48	16
+d_starchaserar		640 640hud43	172	32	48	16
 
 // Scoreboard
 SBOriginalBG        640 Scoreboard          0   0   216 48
