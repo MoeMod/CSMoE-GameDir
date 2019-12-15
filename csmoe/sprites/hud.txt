@@ -172,6 +172,10 @@ d_dragonsword			640 640hud10	172	160	48	16
 d_m2			       	640 640hud12	172	144	48	16
 d_starchaserar		640 640hud43	172	32	48	16
 d_m134				640 640hud16	94	224	48	16
+d_m134ex				640 640hud16	94	224	48	16
+d_mg3xmas			640 640hud16	143	48	48	16
+d_m134xmas			640 640hud3	172	32	48	16
+d_m95xmas			640 640hud6	172	96	48	16
 
 // Scoreboard
 SBOriginalBG        640 Scoreboard          0   0   216 48
