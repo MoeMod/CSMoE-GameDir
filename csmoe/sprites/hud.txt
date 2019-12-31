@@ -176,6 +176,7 @@ d_m134ex				640 640hud16	94	224	48	16
 d_mg3xmas			640 640hud16	143	48	48	16
 d_m134xmas			640 640hud3	172	32	48	16
 d_m95xmas			640 640hud6	172	96	48	16
+d_janus7xmas          		640 640hud38	172	80	48	16
 
 // Scoreboard
 SBOriginalBG        640 Scoreboard          0   0   216 48
