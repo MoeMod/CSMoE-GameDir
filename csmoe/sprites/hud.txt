@@ -131,9 +131,7 @@ d_scarL				640 640hud16	143	176	48	16
 d_scarH				640 640hud16	143	192	48	16
 d_xm8C				640 640hud16	143	224	48	16
 d_xm8S				640 640hud16	143	208	48	16
-d_balrog7  			640 640hud10	172	80	48	16
-d_m14ebr			640 640hud3	172	128	48	16
-d_chainsaw       			640 640hud11	172	16	48	16
+
 
 zombirecovery			640 640hud21	171	1	37	45
 zombitrap				640 640hud20	172	192	37	37
@@ -168,6 +166,9 @@ d_infinityss			640 640hud16	3	112	32	16
 d_infinitysb			640 640hud16	3	112	32	16
 d_infinitysr			640 640hud16	3	112	32	16
 d_dualsword		640 640hud42	172	0	48	16
+d_balrog7  			640 640hud10	172	80	48	16
+d_m14ebr			640 640hud3	172	128	48	16
+d_chainsaw       			640 640hud11	172	16	48	16
 d_gatling				640 640hud4	 172	128	48	16
 d_dragonsword			640 640hud10	172	160	48	16
 d_m2			       	640 640hud12	172	144	48	16
@@ -181,6 +182,7 @@ d_janus7xmas          		640 640hud38	172	80	48	16
 d_sgdrill			              640 640hud38	172	144	48	16
 d_katana				640 640hud4	172	32	48	16
 d_tbarrel    			640 640hud11	172	48	48	16
+d_bow				640 640hud12 	172	48	48	16
 
 // Scoreboard
 SBOriginalBG        640 Scoreboard          0   0   216 48
