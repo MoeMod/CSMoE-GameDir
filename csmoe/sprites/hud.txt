@@ -183,6 +183,7 @@ d_sgdrill			              640 640hud38	172	144	48	16
 d_katana				640 640hud4	172	32	48	16
 d_tbarrel    			640 640hud11	172	48	48	16
 d_bow				640 640hud12 	172	48	48	16
+d_desperado			640 640hud41	172	48	48	16
 
 // Scoreboard
 SBOriginalBG        640 Scoreboard          0   0   216 48
