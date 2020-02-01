@@ -80,11 +80,17 @@ jobs:
         - git push travis-deploy-public --delete $TRAVIS_TAG
         - git tag --force $TRAVIS_TAG
         - git push travis-deploy-public --tags --force
+        - pip install bypy
+        - git clone ${BYPY_CONFIG_GIT_REMOTE} .bypy
+        - cp -r .bypy ~/
+        - bypy upload CSMoE-CD-GameDir-Full.7z CSMoE/CSMoE-CD-GameDir-Full.7z
+        - echo https://pan.baidu.com/s/1aCAizuyanoDuAMozHtMuoQ > 百度网盘下载地址.txt
       deploy:
         provider: releases
         api_key: ${GITHUB_TOKEN}
         file:
           - CSMoE-CD-GameDir-Full.7z
+          - 百度网盘下载地址.txt
         on:
           branch: master
           repo: MoeMod/CSMoE-GameDir
