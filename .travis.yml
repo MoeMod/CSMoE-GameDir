@@ -87,7 +87,7 @@ jobs:
           - CSMoE-CD-GameDir-Full.7z
         on:
           branch: master
-          repo: MoeMod/CSMoE
+          repo: MoeMod/CSMoE-GameDir
         overwrite: true
         skip_cleanup: true
         prerelease: true
