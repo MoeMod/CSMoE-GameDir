@@ -21,7 +21,7 @@ jobs:
         - ./steamcmd.exe +login anonymous +force_install_dir ../HLDS +app_update 90 +app_set_config 90 mod cstrike validate +quit || echo "Second attempt...(success expected)"
         - rm -f ../HLDS/steamapps/*.acf
         - ./steamcmd.exe +login anonymous +force_install_dir ../HLDS +app_update 90 +app_set_config 90 mod cstrike validate +quit || echo "Third attempt..."
-        - cd ..
+          - cd ..
         - mkdir CSMoE-Full
         - cp -r csmoe CSMoE-Full/
         - cp -r HLDS/cstrike CSMoE-Full/
@@ -76,7 +76,7 @@ jobs:
         - git config --local user.email "824395314@qq.com"
         - export TRAVIS_TAG=continuous
         - git remote add travis-deploy-public https://${GITHUB_TOKEN}@github.com/MoeMod/CSMoE.git
-        - git tag --delete $TRAVIS_TAG
+        - git tag --delete $TRAVIS_TAG || echo "tag not exists..."
         - git push travis-deploy-public --delete $TRAVIS_TAG
         - git tag --force $TRAVIS_TAG
         - git push travis-deploy-public --tags --force
