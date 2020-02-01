@@ -1,0 +1,130 @@
+touch_hide *
+
+touch_addbutton "nen" "gfx/vgui/nen.tga" "impulse 101" 0.020000 0.020944 0.980000 0.984389 255 255 255 183 2
+touch_addbutton "menu" "gfx/vgui/menu.tga" "" 0.040000 0.041889 0.130000 0.125667 255 255 255 147 2
+touch_addbutton "1" "gfx/vgui/menu1.tga" "exec touch/1" 0.040000 0.125667 0.260000 0.188500 255 255 255 255 2
+touch_addbutton "2" "gfx/vgui/menu2.tga" "exec touch/2" 0.040000 0.209444 0.260000 0.272278 255 255 255 255 2
+touch_addbutton "3" "gfx/vgui/menu3.tga" "exec touch/3" 0.040000 0.293222 0.260000 0.356056 255 255 255 255 2
+touch_addbutton "4" "gfx/vgui/menu4.tga" "exec touch/4" 0.040000 0.377000 0.260000 0.439833 255 255 255 255 2
+touch_addbutton "5" "gfx/vgui/menu5.tga" "exec touch/5" 0.040000 0.460778 0.260000 0.523611 255 255 255 255 2
+touch_addbutton "6" "gfx/vgui/menu6.tga" "exec touch/6" 0.040000 0.544556 0.260000 0.607389 255 255 255 255 2
+touch_addbutton "7" "gfx/vgui/menu7.tga" "exec touch/7" 0.040000 0.628333 0.260000 0.691167 255 255 255 255 2
+touch_addbutton "x" "gfx/vgui/menux.tga" "exec touch/x" 0.040000 0.900611 0.260000 0.963444 255 255 255 255 2
+touch_addbutton "8" "gfx/vgui/menu8.tga" "exec touch/8" 0.040000 0.712111 0.260000 0.774944 255 255 255 255 2
+touch_addbutton "l1" "gfx/vgui/name.tga" "" 0.270000 0.125667 0.410000 0.272278 255 255 255 255 3
+touch_addbutton "l2" "gfx/vgui/name.tga" "" 0.410000 0.125667 0.550000 0.272278 255 255 255 255 3
+touch_addbutton "l3" "gfx/vgui/name.tga" "" 0.550000 0.125667 0.690000 0.272278 255 255 255 255 3
+touch_addbutton "l4" "gfx/vgui/name.tga" "" 0.690000 0.125667 0.830000 0.272278 255 255 255 255 3
+touch_addbutton "sl2" "gfx/vgui/anaconda.tga" "moe_buy weapon_anaconda" 0.410000 0.125667 0.550000 0.251333 255 255 255 255 3
+touch_addbutton "sl4" "gfx/vgui/deserteagle.tga" "deagle" 0.690000 0.125667 0.830000 0.251333 255 255 255 255 3
+touch_addbutton "sl1" "gfx/vgui/usp45.tga" "usp" 0.270000 0.125667 0.410000 0.251333 255 255 255 255 3
+touch_addbutton "l6" "gfx/vgui/name.tga" "" 0.270000 0.272278 0.410000 0.418889 255 255 255 255 3
+touch_addbutton "l7" "gfx/vgui/name.tga" "" 0.410000 0.272278 0.550000 0.418889 255 255 255 255 3
+touch_addbutton "l8" "gfx/vgui/name.tga" "" 0.550000 0.272278 0.690000 0.418889 255 255 255 255 3
+touch_addbutton "l9" "gfx/vgui/name.tga" "" 0.690000 0.272278 0.830000 0.418889 255 255 255 255 3
+touch_addbutton "l10" "gfx/vgui/name.tga" "" 0.830000 0.272278 0.970000 0.418889 255 255 255 255 3
+touch_addbutton "l5" "gfx/vgui/name.tga" "" 0.830000 0.125667 0.970000 0.272278 255 255 255 255 3
+touch_addbutton "sl5" "gfx/vgui/glock18.tga" "glock 18" 0.830000 0.125667 0.970000 0.251333 255 255 255 255 3
+touch_addbutton "sl6" "gfx/vgui/elites.tga" "elites" 0.270000 0.272278 0.410000 0.397944 255 255 255 255 3
+touch_addbutton "sl8" "gfx/vgui/infinity.tga" "moe_buy weapon_infinity" 0.550000 0.272278 0.690000 0.397944 255 255 255 255 3
+touch_addbutton "sl9" "gfx/vgui/infinityex1.tga" "moe_buy weapon_infinityex1" 0.690000 0.272278 0.830000 0.397944 255 255 255 255 3
+touch_addbutton "sl10" "gfx/vgui/infinityex2.tga" "moe_buy weapon_infinityex2" 0.830000 0.272278 0.970000 0.397944 255 255 255 255 3
+touch_addbutton "sl3" "gfx/vgui/fiveseven.tga" "fiveseven" 0.550000 0.125667 0.690000 0.251333 255 255 255 255 3
+touch_addbutton "sl7" "gfx/vgui/p228.tga" "p228" 0.410000 0.272278 0.550000 0.397944 255 255 255 255 3
+touch_addbutton "l11" "gfx/vgui/name.tga" "" 0.270000 0.418889 0.410000 0.565500 255 255 255 255 3
+touch_addbutton "l12" "gfx/vgui/name.tga" "" 0.410000 0.418889 0.550000 0.565500 255 255 255 255 3
+touch_addbutton "l13" "gfx/vgui/name.tga" "" 0.550000 0.418889 0.690000 0.565500 255 255 255 255 3
+touch_addbutton "sl11" "gfx/vgui/infinitysb.tga" "moe_buy weapon_infinitysb" 0.270000 0.418889 0.410000 0.544556 255 255 255 255 3
+touch_addbutton "sl12" "gfx/vgui/infinitysr.tga" "moe_buy weapon_infinitysr" 0.410000 0.418889 0.550000 0.544556 255 255 255 255 3
+touch_addbutton "sl13" "gfx/vgui/shayingxiuluo.tga" "moe_buy z4b_deagleb" 0.550000 0.418889 0.690000 0.544556 255 255 255 255 3
+touch_addbutton "l14" "gfx/vgui/name.tga" "" 0.690000 0.418889 0.830000 0.565500 255 255 255 255 3
+touch_addbutton "l15" "gfx/vgui/name.tga" "" 0.830000 0.418889 0.970000 0.565500 255 255 255 255 3
+touch_addbutton "sg1" "gfx/vgui/m3.tga" "m3" 0.270000 0.125667 0.410000 0.251333 255 255 255 255 3
+touch_addbutton "sg2" "gfx/vgui/xm1014.tga" "xm1014" 0.410000 0.125667 0.550000 0.251333 255 255 255 255 3
+touch_addbutton "sg3" "gfx/vgui/m1887.tga" "moe_buy weapon_m1887" 0.550000 0.125667 0.690000 0.251333 255 255 255 255 3
+touch_addbutton "sg4" "gfx/vgui/gatling.tga" "moe_buy weapon_gatling" 0.690000 0.125667 0.830000 0.251333 255 255 255 255 3
+touch_addbutton "sm1" "gfx/vgui/kriss.tga" "moe_buy weapon_kriss" 0.270000 0.125667 0.410000 0.251333 255 255 255 255 3
+touch_addbutton "sm2" "gfx/vgui/mac10.tga" "mac10" 0.410000 0.125667 0.550000 0.251333 255 255 255 255 3
+touch_addbutton "sm3" "gfx/vgui/mp5.tga" "mp5" 0.550000 0.125667 0.690000 0.251333 255 255 255 255 3
+touch_addbutton "sm4" "gfx/vgui/mp7a1.tga" "moe_buy weapon_mp7a1c" 0.690000 0.125667 0.830000 0.251333 255 255 255 255 3
+touch_addbutton "sm5" "gfx/vgui/p90.tga" "p90" 0.830000 0.125667 0.970000 0.251333 255 255 255 255 3
+touch_addbutton "sm6" "gfx/vgui/thompson.tga" "moe_buy weapon_thompson" 0.270000 0.272278 0.410000 0.397944 255 255 255 255 3
+touch_addbutton "sm7" "gfx/vgui/tmp.tga" "tmp" 0.410000 0.272278 0.550000 0.397944 255 255 255 255 3
+touch_addbutton "sm8" "gfx/vgui/ump45.tga" "ump45" 0.550000 0.272278 0.690000 0.397944 255 255 255 255 3
+touch_addbutton "sm9" "gfx/vgui/dmp7a1x.tga" "moe_buy z4b_dmp7a1x" 0.690000 0.212278 0.830000 0.397944 255 255 255 255 3
+touch_addbutton "ri1" "gfx/vgui/ak47.tga" "ak47" 0.270000 0.125667 0.410000 0.251333 255 255 255 255 3
+touch_addbutton "ri2" "gfx/vgui/m4a1.tga" "m4a1" 0.410000 0.125667 0.550000 0.251333 255 255 255 255 3
+touch_addbutton "ri3" "gfx/vgui/scarl.tga" "moe_buy weapon_scarl" 0.550000 0.125667 0.690000 0.251333 255 255 255 255 3
+touch_addbutton "ri4" "gfx/vgui/tar21.tga" "moe_buy weapon_tar21" 0.690000 0.125667 0.830000 0.251333 255 255 255 255 3
+touch_addbutton "ri5" "gfx/vgui/sg552.tga" "sg552" 0.830000 0.125667 0.970000 0.251333 255 255 255 255 3
+touch_addbutton "ri6" "gfx/vgui/k1a.tga" "moe_buy weapon_k1a" 0.270000 0.272278 0.410000 0.397944 255 255 255 255 3
+touch_addbutton "ri7" "gfx/vgui/galil.tga" "galil" 0.410000 0.272278 0.550000 0.397944 255 255 255 255 3
+touch_addbutton "ri8" "gfx/vgui/famas.tga" "famas" 0.550000 0.272278 0.690000 0.397944 255 255 255 255 3
+touch_addbutton "ri9" "gfx/vgui/aug.tga" "aug" 0.690000 0.272278 0.830000 0.397944 255 255 255 255 3
+touch_addbutton "ri10" "gfx/vgui/xm8c.tga" "moe_buy weapon_xm8c" 0.830000 0.272278 0.970000 0.397944 255 255 255 255 3
+touch_addbutton "sn1" "gfx/vgui/as50.tga" "moe_buy weapon_as50" 0.270000 0.125667 0.410000 0.251333 255 255 255 255 3
+touch_addbutton "sn2" "gfx/vgui/awp.tga" "awp" 0.410000 0.125667 0.550000 0.251333 255 255 255 255 3
+touch_addbutton "sn3" "gfx/vgui/g3sg1.tga" "g3sg1" 0.550000 0.125667 0.690000 0.251333 255 255 255 255 3
+touch_addbutton "sn5" "gfx/vgui/scout.tga" "scout" 0.830000 0.125667 0.970000 0.251333 255 255 255 255 3
+touch_addbutton "sn6" "gfx/vgui/sg550.tga" "sg550" 0.270000 0.272278 0.410000 0.397944 255 255 255 255 3
+touch_addbutton "sn7" "gfx/vgui/xm2010pc.tga" "moe_buy z4b_xm2010pc" 0.410000 0.272278 0.550000 0.397944 255 255 255 255 3
+touch_addbutton "sn8" "gfx/vgui/awpnvidia.tga" "moe_buy z4b_awpnvidia" 0.550000 0.272278 0.690000 0.397944 255 255 255 255 3
+touch_addbutton "sn9" "gfx/vgui/m95xmas.tga" "moe_buy weapon_m95xmas" 0.690000 0.272278 0.830000 0.397944 255 255 255 255 3
+touch_addbutton "sn4" "gfx/vgui/m95.tga" "moe_buy weapon_m95" 0.690000 0.125667 0.830000 0.251333 255 255 255 255 3
+touch_addbutton "mg1" "gfx/vgui/m249.tga" "m249" 0.270000 0.125667 0.410000 0.251333 255 255 255 255 3
+touch_addbutton "mg2" "gfx/vgui/mg3.tga" "moe_buy weapon_mg3" 0.410000 0.125667 0.550000 0.251333 255 255 255 255 3
+touch_addbutton "mg3" "gfx/vgui/mglua.tga" "moe_buy weapon_balrog7" 0.550000 0.125667 0.690000 0.251333 255 255 255 255 3
+touch_addbutton "eq3" "gfx/vgui/nightvision.tga" "nvgs" 0.560000 0.125667 0.680000 0.251333 255 255 255 255 3
+touch_addbutton "eq2" "gfx/vgui/kevlar_helmet.tga" "vesthelm" 0.420000 0.125667 0.540000 0.251333 255 255 255 255 3
+touch_addbutton "eq1" "gfx/vgui/kevlar.tga" "vest" 0.280000 0.125667 0.400000 0.251333 255 255 255 255 3
+touch_addbutton "eq4" "gfx/vgui/defuser.tga" "defuser" 0.700000 0.125667 0.820000 0.251333 255 255 255 255 3
+touch_addbutton "eq5" "gfx/vgui/hegrenade.tga" "hegren" 0.840000 0.125667 0.960000 0.251333 255 255 255 255 3
+touch_addbutton "eq6" "gfx/vgui/smokegrenade.tga" "sgren" 0.280000 0.272278 0.400000 0.397944 255 255 255 255 3
+touch_addbutton "eq7" "gfx/vgui/flashbang.tga" "flash" 0.420000 0.272278 0.540000 0.397944 255 255 255 255 3
+touch_addbutton "eq8" "gfx/vgui/cannon.tga" "moe_buy weapon_cannon" 0.550000 0.272278 0.690000 0.397944 255 255 255 255 3
+touch_addbutton "eq9" "gfx/vgui/cannonp.tga" "moe_buy z4b_cannonplasma" 0.690000 0.272278 0.830000 0.397944 255 255 255 255 3
+touch_addbutton "eq10" "gfx/vgui/cannong.tga" "moe_buy z4b_cannontiger" 0.830000 0.272278 0.970000 0.397944 255 255 255 255 3
+touch_addbutton "eq11" "gfx/vgui/gungnir.tga" "moe_buy weapon_gungnir" 0.270000 0.418889 0.410000 0.544556 255 255 255 255 3
+touch_addbutton "eq12" "gfx/vgui/m4a1razer.tga" "moe_buy z4b_m4a1razer" 0.410000 0.418889 0.550000 0.544556 255 255 255 255 3
+touch_addbutton "ri11" "gfx/vgui/m14ebr.tga" "moe_buy weapon_m14ebr" 0.270000 0.418889 0.410000 0.544556 255 255 255 255 3
+touch_addbutton "mg4" "gfx/vgui/m134heroi.tga" "moe_buy z4b_m134heroi" 0.690000 0.125667 0.830000 0.251333 255 255 255 255 3
+touch_addbutton "mg5" "gfx/vgui/m2.tga" "moe_buy weapon_m2" 0.830000 0.125667 0.970000 0.251333 255 255 255 255 3
+touch_addbutton "mg6" "gfx/vgui/m134.tga" "moe_buy weapon_m134" 0.270000 0.272278 0.410000 0.397944 255 255 255 255 3
+touch_addbutton "mg7" "gfx/vgui/m134ex.tga" "moe_buy weapon_m134ex" 0.410000 0.272278 0.550000 0.397944 255 255 255 255 3
+touch_addbutton "mg8" "gfx/vgui/m134xmas.tga" "moe_buy weapon_m134xmas" 0.550000 0.272278 0.690000 0.397944 255 255 255 255 3
+touch_addbutton "mg9" "gfx/vgui/mg3xmas.tga" "moe_buy weapon_mg3xmas" 0.690000 0.272278 0.830000 0.397944 255 255 255 255 3
+touch_addbutton "mg10" "gfx/vgui/janus7xmas.tga" "moe_buy weapon_janus7xmas" 0.830000 0.272278 0.970000 0.397944 255 255 255 255 3
+touch_addbutton "kn2" "gfx/vgui/knife.tga" "moe_buy weapon_knife" 0.270000 0.125667 0.410000 0.251333 255 255 255 255 3
+touch_addbutton "kn7" "gfx/vgui/songas.tga" "moe_buy z4b_oppovivo" 0.270000 0.272278 0.410000 0.397944 255 255 255 255 3
+touch_addbutton "kn8" "gfx/vgui/songasp.tga" "moe_buy z4b_Frequency9" 0.410000 0.272278 0.550000 0.397944 255 255 255 255 3
+touch_addbutton "kn9" "gfx/vgui/buata.tga" "moe_buy z4b_stormgiantx" 0.830000 0.125667 0.970000 0.251333 255 255 255 255 3
+touch_addbutton "kn6" "gfx/vgui/daothai.tga" "moe_buy z4b_nataknifedx" 0.550000 0.272278 0.690000 0.397944 255 255 255 255 3
+touch_addbutton "kn5" "gfx/vgui/lc_sword.tga" "moe_buy knife_dragonsword" 0.690000 0.125667 0.830000 0.251333 255 255 255 255 3
+touch_addbutton "kn4" "gfx/vgui/dualsword.tga" "moe_buy knife_dualsword" 0.690000 0.272278 0.830000 0.397944 255 255 255 255 3
+touch_addbutton "kn1" "gfx/vgui/skullaxe.tga" "moe_buy knife_skullaxe" 0.410000 0.125667 0.550000 0.251333 255 255 255 255 3
+touch_addbutton "kn3" "gfx/vgui/buagai.tga" "moe_buy z4b_facelessvoid" 0.550000 0.125667 0.690000 0.251333 255 255 255 255 3
+touch_addbutton "n2" "gfx/vgui/n.tga" "" 0.030000 0.209444 0.270000 0.272278 255 255 255 255 3
+touch_addbutton "n4" "gfx/vgui/n.tga" "" 0.030000 0.377000 0.270000 0.439833 255 255 255 255 3
+touch_addbutton "n5" "gfx/vgui/n.tga" "" 0.030000 0.460778 0.270000 0.523611 255 255 255 255 3
+touch_addbutton "n6" "gfx/vgui/n.tga" "" 0.030000 0.544556 0.270000 0.607389 255 255 255 255 3
+touch_addbutton "n7" "gfx/vgui/n.tga" "" 0.030000 0.628333 0.270000 0.691167 255 255 255 255 3
+touch_addbutton "n8" "gfx/vgui/n.tga" "" 0.030000 0.712111 0.270000 0.774944 255 255 255 255 3
+touch_addbutton "n3" "gfx/vgui/n.tga" "" 0.030000 0.293222 0.270000 0.356056 255 255 255 255 3
+touch_addbutton "m4" "gfx/vgui/n.tga" "" 0.720000 0.628333 0.940000 0.774944 255 255 255 255 2
+touch_addbutton "m2" "gfx/vgui/n.tga" "" 0.720000 0.293222 0.940000 0.439833 255 255 255 255 2
+touch_addbutton "m3" "gfx/vgui/n.tga" "" 0.720000 0.460778 0.940000 0.607389 255 255 255 255 2
+touch_addbutton "m1" "gfx/vgui/n.tga" "" 0.720000 0.125667 0.940000 0.272278 255 255 255 255 2
+touch_addbutton "kni4" "gfx/vgui/gungnir.tga" "moe_buy weapon_gungnir" 0.730000 0.628333 0.930000 0.774944 255 255 255 255 2
+touch_addbutton "kni3" "gfx/vgui/m134heroi.tga" "moe_buy z4b_m134heroi" 0.730000 0.460778 0.930000 0.607389 255 255 255 255 2
+touch_addbutton "kni2" "gfx/vgui/buata.tga" "moe_buy z4b_stormgiantx" 0.730000 0.293222 0.930000 0.439833 255 255 255 255 2
+touch_addbutton "kni1" "gfx/vgui/dualsword.tga" "moe_buy knife_dualsword" 0.730000 0.125667 0.930000 0.272278 255 255 255 255 2
+touch_addbutton "n1" "gfx/vgui/n.tga" "" 0.030000 0.125667 0.270000 0.188500 255 255 255 255 3
+touch_addbutton "9" "gfx/vgui/menua.tga" "autobuy" 0.390000 0.628333 0.600000 0.691167 255 255 255 255 2
+touch_addbutton "10" "gfx/vgui/menub.tga" "flash;hegren;sgren" 0.390000 0.712111 0.600000 0.774944 255 255 255 255 2
+touch_addbutton "11" "gfx/vgui/menup.tga" "primammo" 0.720000 0.795889 0.940000 0.858722 255 255 255 255 2
+touch_addbutton "12" "gfx/vgui/menur.tga" "secammo" 0.720000 0.879667 0.940000 0.942500 255 255 255 255 2
+touch_addbutton "ri12" "gfx/vgui/starchaserar.tga" "moe_buy weapon_starchaserar" 0.410000 0.418889 0.550000 0.544556 255 255 255 255 3
+touch_addbutton "ri13" "gfx/vgui/ak47x.tga" "moe_buy z4b_ak47x" 0.550000 0.418889 0.690000 0.544556 255 255 255 255 3
+touch_addbutton "ri14" "gfx/vgui/m4a1x.tga" "moe_buy z4b_m4a1x" 0.690000 0.418889 0.830000 0.544556 255 255 255 255 3
+touch_addbutton "ri15" "gfx/vgui/m4a1mw.tga" "moe_buy z4b_m4a1mw" 0.830000 0.418889 0.970000 0.544556 255 255 255 255 3
+touch_addbutton "sh5" "gfx/vgui/starchaserar.tga" "moe_buy weapon_starchaserar" 1.99999 0.125667 0.970000 0.251333 255 255 255 255 2
