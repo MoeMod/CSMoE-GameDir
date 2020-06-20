@@ -135,7 +135,6 @@ d_knifedragon			640 640hud3	172	80	48	16
 d_ak47dragon          		640 640hud1	192	80	48	16
 d_m4a1dragon			640 640hud1	192	96	48	16
 
-
 zombirecovery			640 640hud21	171	1	37	45
 zombitrap				640 640hud20	172	192	37	37
 radar_trap			640 640hud2	241	144	9	9
@@ -165,28 +164,8 @@ d_infinityex1			640 640hud16	45	160	48	16
 d_infinityex2			640 640hud3	172	48	48	16
 d_gungnir		640 640hud44	172	48	48	16
 d_svdex				640 640hud3	172	0	48	16
-d_infinityss			640 640hud16	3	112	32	16
-d_infinitysb			640 640hud16	3	112	32	16
-d_infinitysr			640 640hud16	3	112	32	16
-d_dualsword		640 640hud42	172	0	48	16
-d_balrog7  			640 640hud10	172	80	48	16
-d_m14ebr			640 640hud3	172	128	48	16
-d_chainsaw       			640 640hud11	172	16	48	16
-d_gatling				640 640hud4	 172	128	48	16
-d_dragonsword			640 640hud10	172	160	48	16
-d_m2			       	640 640hud12	172	144	48	16
-d_starchaserar		640 640hud43	172	32	48	16
-d_m134				640 640hud16	94	224	48	16
-d_m134ex				640 640hud16	94	224	48	16
-d_mg3xmas			640 640hud16	143	48	48	16
-d_m134xmas			640 640hud3	172	32	48	16
-d_m95xmas			640 640hud6	172	96	48	16
-d_janus7xmas          		640 640hud38	172	80	48	16
-d_sgdrill			              640 640hud38	172	144	48	16
-d_katana				640 640hud4	172	32	48	16
-d_tbarrel    			640 640hud11	172	48	48	16
-d_bow				640 640hud12 	172	48	48	16
-d_desperado			640 640hud41	172	48	48	16
+
+
 
 // Scoreboard
 SBOriginalBG        640 Scoreboard          0   0   216 48
@@ -247,3 +226,26 @@ ZB3_RageEffect204   640 rage6        	  2  2  97  114
 ZB3_RageEffect205   640 rage6        	  101  2  97  114
 ZB3_RageEffect206   640 rage6        	  2  118  97  114
 ZB3_RageEffect207   640 rage6       	  101  118  97  114
+
+d_infinityss			640 640hud16	3	112	32	16
+d_infinitysb			640 640hud16	3	112	32	16
+d_infinitysr			640 640hud16	3	112	32	16
+d_dualsword		640 640hud42	172	0	48	16
+d_balrog7  			640 640hud10	172	80	48	16
+d_m14ebr			640 640hud3	172	128	48	16
+d_chainsaw       			640 640hud11	172	16	48	16
+d_gatling				640 640hud4	 172	128	48	16
+d_dragonsword			640 640hud10	172	160	48	16
+d_m2			       	640 640hud12	172	144	48	16
+d_starchaserar		640 640hud43	172	32	48	16
+d_m134				640 640hud16	94	224	48	16
+d_m134ex				640 640hud16	94	224	48	16
+d_mg3xmas			640 640hud16	143	48	48	16
+d_m134xmas			640 640hud3	172	32	48	16
+d_m95xmas			640 640hud6	172	96	48	16
+d_janus7xmas          		640 640hud38	172	80	48	16
+d_sgdrill			              640 640hud38	172	144	48	16
+d_katana				640 640hud4	172	32	48	16
+d_tbarrel    			640 640hud11	172	48	48	16
+d_bow				640 640hud12 	172	48	48	16
+d_desperado			640 640hud41	172	48	48	16
