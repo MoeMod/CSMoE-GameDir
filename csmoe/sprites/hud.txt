@@ -131,6 +131,9 @@ d_scarL				640 640hud16	143	176	48	16
 d_scarH				640 640hud16	143	192	48	16
 d_xm8C				640 640hud16	143	224	48	16
 d_xm8S				640 640hud16	143	208	48	16
+d_knifedragon			640 640hud3	172	80	48	16
+d_ak47dragon          		640 640hud1	192	80	48	16
+d_m4a1dragon			640 640hud1	192	96	48	16
 
 
 zombirecovery			640 640hud21	171	1	37	45
@@ -199,6 +202,7 @@ SBText_ZB           640 Scoreboard_Text     66  13  23  11
 SBText_1st          640 Scoreboard_Text     88  13  23  11
 SBText_Kill         640 Scoreboard_Text     131 11  38  11
 SBText_Round        640 Scoreboard_Text     170 11  38  11
+csgo_number			640 640hud00		0	0	210	30
 
 // KillEffect
 KM_Number0          640 Kill2               0   0   41  68
