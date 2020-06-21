@@ -75,7 +75,7 @@ jobs:
         - git config --local user.name "CSMoE-Deployer"
         - git config --local user.email "824395314@qq.com"
         - export TRAVIS_TAG=continuous
-        - git remote add travis-deploy-public https://${GITHUB_TOKEN}@github.com/MoeMod/CSMoE.git
+        - git remote add travis-deploy-public https://${GITHUB_TOKEN}@github.com/MoeMod/CSMoE-GameDir.git
         - git tag --delete $TRAVIS_TAG || echo "tag not exists..."
         - git push travis-deploy-public --delete $TRAVIS_TAG
         - git tag --force $TRAVIS_TAG
