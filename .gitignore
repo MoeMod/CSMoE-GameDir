@@ -32,3 +32,5 @@ tempdecal.wad
 
 # Backup files
 *.bak
+/.vs/slnx.sqlite
+/.vs/ProjectSettings.json
