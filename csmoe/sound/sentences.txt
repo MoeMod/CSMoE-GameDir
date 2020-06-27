@@ -673,6 +673,7 @@ MRAD_AFFIRM radio/ct_affirm
 MRAD_BACKUP radio/ct_backup
 MRAD_COVERME radio/ct_coverme
 MRAD_ENEMYSPOT radio/ct_enemys
+MRAD_FIREINHOLE radio/ct_fireinhole
 MRAD_FIREINHOLE1 radio/csgo/ct_grenade01
 MRAD_FIREINHOLE2 radio/csgo/ct_grenade02
 MRAD_FIREINHOLE3 radio/csgo/ct_grenade03
@@ -720,3 +721,55 @@ MRAD_FOLLOWME radio/followme
 MRAD_MEETME radio/meetme
 MRAD_STORMFRONT radio/stormfront
 MRAD_NEGATIVE radio/negative
+
+//zombi radio
+MRAD_GETINPOS_ZB radio/zombi/com_getinpos
+MRAD_GO_ZB radio/zombi/com_go
+MRAD_REPORTIN_ZB radio/zombi/com_reportin
+MRAD_FOLLOWCOM_ZB radio/zombi/com_followcom
+MRAD_AFFIRM_ZB radio/zombi/ct_affirm
+MRAD_BACKUP_ZB radio/zombi/ct_backup
+MRAD_COVERME_ZB radio/zombi/ct_coverme
+MRAD_ENEMYSPOT_ZB radio/zombi/ct_enemys
+MRAD_FIREINHOLE_ZB radio/zombi/ct_fireinhole
+MRAD_IMHIT_ZB radio/zombi/ct_imhit
+MRAD_INPOS_ZB radio/zombi/ct_inpos
+MRAD_POINT_ZB radio/zombi/ct_point
+MRAD_REPRTINGIN_ZB radio/zombi/ct_reportingin
+
+MRAD_CTWIN_ZB radio/zombi/ctwin
+MRAD_HOSDOWN_ZB radio/zombi/hosdown
+MRAD_LETSGO_ZB radio/zombi/letsgo
+MRAD_LOCKNLOAD_ZB radio/zombi/locknload
+MRAD_MATEDOWN_ZB radio/zombi/matedown
+MRAD_MOVEOUT_ZB radio/zombi/moveout
+MRAD_RESCUED_ZB radio/zombi/rescued
+MRAD_ROGER_ZB radio/zombi/roger
+MRAD_TERWIN_ZB radio/zombi/terwin
+MRAD_ENEMYDOWN_ZB radio/zombi/enemydown
+MRAD_ROUNDDRAW_ZB radio/zombi/rounddraw
+MRAD_ELIM_ZB radio/zombi/elim
+MRAD_GETOUT_ZB radio/zombi/getout
+MRAD_VIP_ZB radio/zombi/vip
+MRAD_ESCAPED_ZB radio/zombi/escaped
+
+MRAD_BLOW_ZB radio/zombi/blow
+MRAD_BOMBDEF_ZB radio/zombi/bombdef
+MRAD_BOMBPL_ZB radio/zombi/bombpl
+MRAD_CLEAR_ZB radio/zombi/clear
+MRAD_FALLBACK_ZB radio/zombi/fallback
+MRAD_GOGOGO_ZB radio/zombi/com_go
+MRAD_HITASSIST_ZB radio/zombi/fireassis
+MRAD_REGROUP_ZB radio/zombi/regroup
+MRAD_STICKTOG_ZB radio/zombi/sticktog
+
+MRAD_TAKEPOINT_ZB radio/zombi/takepoint
+MRAD_POSITION_ZB radio/zombi/position
+MRAD_CIRCLEBACK_ZB radio/zombi/circleback
+MRAD_FOLLOWME_ZB radio/zombi/followme
+MRAD_MEETME_ZB radio/zombi/meetme
+MRAD_STORMFRONT_ZB radio/zombi/stormfront
+MRAD_NEGATIVE_ZB radio/zombi/negative
+
+MRAD_JOKE1_ZB radio/zombi/niceshot
+MRAD_JOKE2_ZB radio/zombi/whoops
