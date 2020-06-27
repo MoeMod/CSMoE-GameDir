@@ -34,3 +34,5 @@ tempdecal.wad
 *.bak
 /.vs/slnx.sqlite
 /.vs/ProjectSettings.json
+/.vs/VSWorkspaceState.json
+/.vs/CSMoE-GameDir/v16/.suo
