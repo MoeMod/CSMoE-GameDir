@@ -1,0 +1,4 @@
+3
+weapon		640 640csws02		0	0	171	47
+weapon_s	640 640csws02_s		0	0	171	47
+ammo		640 640hud7		0	72	24	24

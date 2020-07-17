@@ -684,6 +684,10 @@ MRAD_FLASHBANG03 radio/csgo/ct_flashbang03
 MRAD_SMOKE01 radio/csgo/ct_smoke01
 MRAD_SMOKE02 radio/csgo/ct_smoke02
 MRAD_SMOKE03 radio/csgo/ct_smoke03
+MRAD_MOLOTOV01 radio/csgo/ct_molotov01
+MRAD_MOLOTOV02 radio/csgo/ct_molotov02
+MRAD_MOLOTOV03 radio/csgo/ct_molotov03
+MRAD_MOLOTOV04 radio/csgo/ct_molotov04
 MRAD_IMHIT radio/ct_imhit
 MRAD_INPOS radio/ct_inpos
 MRAD_POINT radio/ct_point
