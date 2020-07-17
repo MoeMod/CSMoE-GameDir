@@ -101,7 +101,35 @@ CT_Select
 		Menu_BuyMachineGun,
 		Menu_BuyShotgun,
 		Menu_BuySubMachineGun,
-		Menu_BuyItem
+		Menu_BuyItem,
+		Menu_ZbsUpgrade
+ZbsUpgrade
+{
+\yUpgrade\R$   Cost
+
+\w1. Hp\y\R3000
+\w2. Attack\y\R3000
+
+\w0. Exit
+}
+
+BuyZbs
+{
+\yBuy Item\w
+
+1. Handgun
+2. Shotgun
+3. Sub-Machine Gun
+4. Rifle
+5. Machine Gun
+
+6. Primary weapon ammo
+7. Secondary weapon ammo
+
+8. Equipment
+9. Upgrade
+0. Exit
+}
 
 Buy
 {
@@ -117,7 +145,6 @@ Buy
 7. Secondary weapon ammo
 
 8. Equipment
-
 0. Exit
 }
 
@@ -127,7 +154,7 @@ CT_BuyItem
 
 \w1. Kevlar Vest\y\R650
 \w2. Kevlar Vest & Helmet\y\R1000
-\w3. Flashbang\y\R200	
+\w3. Flashbang\y\R200
 \w4. HE Grenade\y\R300
 \w5. Smoke Grenade\y\R300
 \w6. NightVision Goggles\y\R1250
@@ -143,7 +170,7 @@ T_BuyItem
 
 \w1. Kevlar Vest\y\R650
 \w2. Kevlar Vest & Helmet\y\R1000
-\w3. Flashbang\y\R200	
+\w3. Flashbang\y\R200
 \w4. HE Grenade\y\R300
 \w5. Smoke Grenade\y\R300
 \w6. NightVision Goggles\y\R1250
@@ -157,7 +184,7 @@ DCT_BuyItem
 
 \w1. Kevlar Vest\y\R650
 \w2. Kevlar Vest & Helmet\y\R1000
-\w3. Flashbang\y\R200	
+\w3. Flashbang\y\R200
 \w4. HE Grenade\y\R300
 \w5. Smoke Grenade\y\R300
 \w6. NightVision Goggles\y\R1250
@@ -173,7 +200,7 @@ DT_BuyItem
 
 \w1. Kevlar Vest\y\R650
 \w2. Kevlar Vest & Helmet\y\R1000
-\w3. Flashbang\y\R200	
+\w3. Flashbang\y\R200
 \w4. HE Grenade\y\R300
 \w5. Smoke Grenade\y\R300
 \w6. NightVision Goggles\y\R1250
@@ -289,7 +316,7 @@ T_BuyRifle
 (Primary weapon)
 
 \w1. IDF Defender\y\R2000
-\w2. CV-47\y\R2500
+\w2. AK-47\y\R2500
 \w3. Schmidt Scout\y\R2750
 \w4. Krieg 552 Commando\y\R3500
 \w5. Magnum Sniper Rifle\y\R4750
@@ -319,7 +346,7 @@ AS_T_BuyRifle
 (Primary weapon)
 
 \w1. IDF Defender\y\R2000
-\w2. CV-47\y\R2500
+\w2. AK-47\y\R2500
 \d3. Schmidt Scout\y\R2750
 \d4. Krieg 552 Commando\y\R3500
 \w5. Magnum Sniper Rifle\y\R4750
@@ -400,7 +427,7 @@ RadioC
 3. "Need Backup"
 4. "Sector Clear"
 5. "I'm in Position"
-6. "Reporting In"	
+6. "Reporting In"
 7. "She's gonna Blow!"
 8. "Negative"
 9. "Enemy Down"
@@ -1346,6 +1373,11 @@ Smoke Out!
 Flashbang_out
 {
 Flashbang Out!
+}
+
+Molotov_out
+{
+FireBomb on the way!
 }
 
 Cant_buy
