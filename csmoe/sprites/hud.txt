@@ -131,6 +131,7 @@ d_scarL				640 640hud16	143	176	48	16
 d_scarH				640 640hud16	143	192	48	16
 d_xm8C				640 640hud16	143	224	48	16
 d_xm8S				640 640hud16	143	208	48	16
+d_stg44          			640 640hud6	172	32	48	16
 d_knifedragon			640 640hud3	172	80	48	16
 d_ak47dragon          		640 640hud1	192	80	48	16
 d_m4a1dragon			640 640hud1	192	96	48	16
@@ -186,13 +187,16 @@ d_katana				640 640hud4	172	32	48	16
 d_tbarrel    			640 640hud11	172	48	48	16
 d_bow				640 640hud12 	172	48	48	16
 d_desperado			640 640hud41	172	48	48	16
+d_gunkata			640 640hud42	172	208	48	16
 d_molotov_fire			640 640hudbte	170	0	48	16
 d_csgo_negev		        	640 640csws01_s	170	27	50	14
-d_csgo_mag7				640 640csws01_s	170	61	50	19
+d_csgo_mag7			640 640csws01_s	170	61	50	19
 d_csgo_bizon		        	640 640csws01_s	170	0	50	14
+d_csgo_zeus		        	640 640csws01_s	170	51	50	10
 d_csgo_sawedoff			640 640csws02_s	170	0	50	12
-d_csgo_tec9				640 640csws02_s	170	62	25	20
-d_csgo_cz75				640 640csws03_s	170	16	32	16
+d_csgo_tec9			640 640csws02_s	170	62	25	20
+d_csgo_cz75			640 640csws03_s	170	16	32	16
+d_voidpistol			640 640hud12	222	160	32	16
 
 
 // Scoreboard
