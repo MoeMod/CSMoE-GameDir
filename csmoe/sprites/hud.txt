@@ -197,6 +197,8 @@ d_csgo_sawedoff			640 640csws02_s	170	0	50	12
 d_csgo_tec9			640 640csws02_s	170	62	25	20
 d_csgo_cz75			640 640csws03_s	170	16	32	16
 d_voidpistol			640 640hud12	222	160	32	16
+d_csgo_r8				640 640csws02_s	170	13	30	17
+d_gatlingex			640 640hud55	172	208 	48	16
 
 
 // Scoreboard
