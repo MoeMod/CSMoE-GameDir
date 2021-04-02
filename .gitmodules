@@ -1,0 +1,3 @@
+[submodule "csmoe/addons/luash"]
+	path = csmoe/addons/luash
+	url = https://github.com/MoeMod/luash
